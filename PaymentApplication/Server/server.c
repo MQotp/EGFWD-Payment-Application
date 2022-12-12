@@ -13,6 +13,7 @@ ST_accountsDB_t Account[255] = {{2000.0, RUNNING, "8989374615436851"},\
 		{98000.0, BLOCKED, "2989123472451479"},\
 		{47200.0, RUNNING, "1401424747456875"}};
 
+
 ST_transaction_t Transaction[255] = {0};
 
 /* typedef struct ST_transaction_t
