@@ -5,7 +5,8 @@
  *      Author: Mahmoud Qotp
  */
 #include "Application/app.h"
-
+/*Line to prove That MQotp repository and Mahmoud Abolfadl (Udacity Account) are both mine. */
+/*Author: Mahmoud Fathy Kotb Abouelfadl*/
 int main(void)
 {
 	setvbuf(stdout, NULL, _IONBF, 0);
